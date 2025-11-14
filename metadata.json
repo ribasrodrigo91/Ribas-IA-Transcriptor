@@ -1,0 +1,5 @@
+{
+  "name": "Audio Scribe AI",
+  "description": "A web application that transcribes audio files into text using the Gemini API, inspired by services like ZAPIA. Upload an audio file and get a quick, accurate transcription.",
+  "requestFramePermissions": []
+}
